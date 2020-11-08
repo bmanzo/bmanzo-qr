@@ -9,4 +9,4 @@ plots.R creates plots for exploratory analysis
 
 glms.R executes analysis for section 3
 
-ml-models.R execuses analysis for section 4
+ml-models.R executes analysis for section 4
